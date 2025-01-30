@@ -311,6 +311,7 @@ How do I exit Vim?
 - **@terminal** - ask a questions related to info in your terminal
 - **@vscode** - ask the questions related to VS Code
 - **@github** - get answers grounded in web search, code search, and your enterprise's knowledge bases
+- **@azure (preview)** - get answers grounded in Azure documentation for Azure development, deployment, and management tasks
 
 ### Variables
 
